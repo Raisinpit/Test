@@ -1,0 +1,9 @@
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccountNS.deps.json
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccountNS.dll
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccountNS.pdb
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.csprojAssemblyReference.cache
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.csproj.CoreCompileInputs.cache
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.AssemblyInfoInputs.cache
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.AssemblyInfo.cs
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.dll
+C:\Users\Karim\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccountNS.pdb
