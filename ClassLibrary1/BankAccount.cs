@@ -55,7 +55,7 @@ namespace BankAccountNS
         }
         
       public override string ToString (){
-            if (this.collection.Count == 0){
+            if (m_balance == 0){
                 return null; // Noncompliant
              }
           else {
