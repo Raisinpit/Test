@@ -58,6 +58,9 @@ namespace BankAccountNS
             if (this.collection.Count == 0){
                 return null; // Noncompliant
              }
+          else {
+              return null;
+          }
       }
 
         public void Credit(double amount)
