@@ -54,9 +54,11 @@ namespace BankAccountNS
             m_balance -= amount; ; // intentionally incorrect code  
         }
         
-        public String toString(){
-            return null;
-        }
+      public override string ToString (){
+            if (this.collection.Count == 0){
+                return null; // Noncompliant
+             }
+      }
 
         public void Credit(double amount)
         {
